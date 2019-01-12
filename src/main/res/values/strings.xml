@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Learn ABC</string>
+    <string name="title_activity_alphabet">Alphabets</string>
+    <string name="title_activity_numbers">Numbers</string>
+    <string name="title_activity_random_alphabet">Random Alphabets</string>
+</resources>
